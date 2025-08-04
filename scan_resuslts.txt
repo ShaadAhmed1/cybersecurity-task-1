@@ -1,0 +1,8 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-08-04 13:56 IST
+Nmap scan report for 172.26.61.227
+Host is up (0.0000050s latency).
+Not shown: 999 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap done: 1 IP address (1 host up) scanned in 0.09 seconds
